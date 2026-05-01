@@ -1,16 +1,11 @@
 package de.pnku.more_variants_pale_oak_backport;
 
-import de.pnku.more_variants_core.util.WoodTypeHolder;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.registry.RegistryEntryAddedCallback;
-import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.util.ArrayList;
-import java.util.List;
 
 
 public class MoreVariantsPaleOakBackport implements ModInitializer {
