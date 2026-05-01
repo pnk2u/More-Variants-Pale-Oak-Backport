@@ -23,11 +23,7 @@
     ]
   },
   "mixins": [
-    "${mod_id}.mixins.json",
-    {
-      "config": "${mod_id}.client.mixins.json",
-      "environment": "client"
-    }
+    "${mod_id}.mixins.json"
   ],
   "depends": {
         "fabricloader": ">=${loader_version}",
