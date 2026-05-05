@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "mstv-mtoolv:pale_oak_wooden_shovel",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_stone_shovel",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_deepslate_shovel",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_blackstone_shovel",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_golden_shovel",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_iron_shovel",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_diamond_shovel",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_netherite_shovel",
+      "required": false
+    }
+  ]
+}

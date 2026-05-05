@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mstv-mtoolv:pale_oak_wooden_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_wooden_pickaxe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_wooden_hoe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_wooden_shovel",
+      "required": false
+    }
+  ]
+}

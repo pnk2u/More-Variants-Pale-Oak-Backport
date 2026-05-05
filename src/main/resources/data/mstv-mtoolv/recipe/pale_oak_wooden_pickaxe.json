@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "wooden_pickaxes",
+  "key": {
+    "/": {
+      "item": "mstv-base:pale_oak_stick"
+    },
+    "<": {
+      "item": "minecraft:pale_oak_planks"
+    }
+  },
+  "pattern": [
+    "<<<",
+    " / ",
+    " / "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mstv-mtoolv:pale_oak_wooden_pickaxe"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "mstv-mtoolv"
+      ]
+    }
+  ]
+}

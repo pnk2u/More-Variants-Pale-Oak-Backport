@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "mstv-mtoolv:pale_oak_golden_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_golden_hoe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_golden_pickaxe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_golden_shovel",
+      "required": false
+    }
+  ]
+}

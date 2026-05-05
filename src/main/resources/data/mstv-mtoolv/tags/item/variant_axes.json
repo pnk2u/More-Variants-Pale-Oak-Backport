@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "mstv-mtoolv:pale_oak_wooden_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_stone_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_deepslate_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_blackstone_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_golden_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_iron_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_diamond_axe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_netherite_axe",
+      "required": false
+    }
+  ]
+}

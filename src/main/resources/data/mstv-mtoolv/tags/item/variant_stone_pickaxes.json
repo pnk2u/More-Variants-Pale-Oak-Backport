@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mstv-mtoolv:pale_oak_stone_pickaxe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_deepslate_pickaxe",
+      "required": false
+    },
+    {
+      "id": "mstv-mtoolv:pale_oak_blackstone_pickaxe",
+      "required": false
+    }
+  ]
+}
