@@ -16,6 +16,10 @@
     {
       "id": "mstv-mtoolv:pale_oak_wooden_shovel",
       "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_wooden_sword",
+      "required": false
     }
   ]
 }

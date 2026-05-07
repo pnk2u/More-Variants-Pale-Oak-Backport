@@ -1,10 +1,77 @@
 {
   "replace": false,
   "values": [
-    {"id":"more_barrel_variants:pale_oak_barrel","required":false},
-    {"id":"lolmbv:pale_oak_bookshelf","required":false},
-    {"id":"lolmcv:pale_oak_chest","required":false},
-    {"id":"lolmcv:pale_oak_trapped_chest","required":false},
-    {"id":"lolmct:pale_oak_crafting_table","required":false}
+    {
+      "id": "more_barrel_variants:pale_oak_barrel",
+      "required": false
+    },
+    {
+      "id": "lolmbv:pale_oak_bookshelf",
+      "required": false
+    },
+    {
+      "id": "lolmcbv:pale_oak_chiseled_bookshelf",
+      "required": false
+    },
+    {
+      "id": "lolmcv:pale_oak_chest",
+      "required": false
+    },
+    {
+      "id": "lolmcv:pale_oak_trapped_chest",
+      "required": false
+    },
+    {
+      "id": "lolmcgt:pale_oak_cartography_table",
+      "required": false
+    },
+    {
+      "id": "lolmcmv:pale_oak_composter",
+      "required": false
+    },
+    {
+      "id": "lolmct:pale_oak_crafting_table",
+      "required": false
+    },
+    {
+      "id": "lolmft:pale_oak_fletching_table",
+      "required": false
+    },
+    {
+      "id": "quad-lolmjnv:pale_oak_jukebox",
+      "required": false
+    },
+    {
+      "id": "quad-lolmjnv:pale_oak_noteblock",
+      "required": false
+    },
+    {
+      "id": "lolmlv:pale_oak_lectern",
+      "required": false
+    },
+    {
+      "id": "lolmlmv:pale_oak_loom",
+      "required": false
+    },
+    {
+      "id": "lolmst:pale_oak_smithing_table",
+      "required": false
+    },
+    {
+      "id": "nemos-moreladdervariants:pale_oak_ladder",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_bow",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_crossbow",
+      "required": false
+    },
+    {
+      "id": "mstv-mfrv:pale_oak_fishing_rod",
+      "required": false
+    }
   ]
 }
