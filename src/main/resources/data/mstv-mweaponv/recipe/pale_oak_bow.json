@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "bows",
+  "key": {
+    "/": {
+      "item": "mstv-base:pale_oak_stick"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " /S",
+    "/ S",
+    " /S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mstv-mweaponv:pale_oak_bow"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "mstv-mweaponv"
+      ]
+    }
+  ]
+}

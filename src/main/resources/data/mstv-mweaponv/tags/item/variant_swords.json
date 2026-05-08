@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "id": "mstv-mweaponv:pale_oak_wooden_sword",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_stone_sword",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_deepslate_sword",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_blackstone_sword",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_iron_sword",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_diamond_sword",
+      "required": false
+    },
+    {
+      "id": "mstv-mweaponv:pale_oak_netherite_sword",
+      "required": false
+    }
+  ]
+}

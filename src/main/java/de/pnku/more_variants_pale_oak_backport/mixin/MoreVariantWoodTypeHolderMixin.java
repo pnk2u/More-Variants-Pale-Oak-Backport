@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public abstract class MoreVariantWoodTypeHolderMixin {
     @Inject(method = "init", at = @At("HEAD"), remap = false)
     private static void injectedInitAtHead(CallbackInfo ci) {
-        MoreVariantWoodTypeHolder.addWoodTypes(WoodTypes.PALE_OAK);
+        MoreVariantWoodTypeHolder.addMoreVariantWoodTypes(WoodTypes.PALE_OAK);
     }
 }
