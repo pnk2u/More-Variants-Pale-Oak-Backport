@@ -131,7 +131,7 @@ dependencies {
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_api_version}"
 
 	// More Variants Core (local maven)
-	modCompileOnly modLocalRuntime("de.pnku:MoreVariantsCore:0.9.6+1.21(.1)-Fabric")
+	modCompileOnly modLocalRuntime("de.pnku:MoreVariantsCore:${project.m_v_core_version}+1.21(.1)-Fabric")
 }
 
 static def version_reduced(String input) { // Reduces a version string by one minor version and sets patch to 0
