@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "feeding_trough",
+  "key": {
+    "#": {
+      "item": "minecraft:pale_oak_slab"
+    }
+  },
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lolmcmv-aft:pale_oak_feeding_trough"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcmv-aft"
+      ]
+    }
+  ]
+}
