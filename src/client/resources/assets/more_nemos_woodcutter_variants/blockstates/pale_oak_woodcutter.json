@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "more_nemos_woodcutter_variants:block/pale_oak_woodcutter",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "more_nemos_woodcutter_variants:block/pale_oak_woodcutter"
+    },
+    "facing=south": {
+      "model": "more_nemos_woodcutter_variants:block/pale_oak_woodcutter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "more_nemos_woodcutter_variants:block/pale_oak_woodcutter",
+      "y": 270
+    }
+  }
+}
