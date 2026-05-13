@@ -1,0 +1,20 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcv",
+        "nemos-woodcutter"
+      ]
+    }
+  ],
+  "type": "nemos-woodcutter:woodcutting",
+  "ingredient": {
+    "count": 4,
+    "item": "minecraft:pale_oak_planks"
+  },
+  "result": {
+    "count": 1,
+    "id": "lolmcv:pale_oak_chest"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "nemos-woodcutter:woodcutting",
+  "ingredient": {
+    "item": "minecraft:pale_oak_wood"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:stripped_pale_oak_wood"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "nemos-woodcutter"
+      ]
+    }
+  ]
+}

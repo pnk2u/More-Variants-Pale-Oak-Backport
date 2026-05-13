@@ -1,0 +1,19 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "nemos-mossy-blocks",
+        "nemos-woodcutter"
+      ]
+    }
+  ],
+  "type": "nemos-woodcutter:woodcutting",
+  "ingredient": {
+    "item": "nemos-mossy-blocks:mossy_pale_oak_planks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nemos-mossy-blocks:mossy_pale_oak_stairs"
+  }
+}

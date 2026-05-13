@@ -1,0 +1,18 @@
+{
+  "type": "nemos-woodcutter:woodcutting",
+  "ingredient": {
+    "item": "minecraft:pale_oak_planks"
+  },
+  "result": {
+    "count": 2,
+    "id": "minecraft:pale_oak_trapdoor"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "nemos-woodcutter"
+      ]
+    }
+  ]
+}

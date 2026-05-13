@@ -1,0 +1,41 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcmv",
+        "nemos-woodcutter"
+      ]
+    }
+  ],
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pale_oak_composter": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lolmcmv:pale_oak_composter"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:lolmcmv_pale_oak_logs_to_pale_oak_composter_woodcutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_pale_oak_composter"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:lolmcmv_pale_oak_logs_to_pale_oak_composter_woodcutting"
+    ]
+  }
+}
