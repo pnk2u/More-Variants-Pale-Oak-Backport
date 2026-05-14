@@ -1,19 +1,11 @@
 {
-  "fabric:load_conditions": [
-    {
-      "condition": "fabric:all_mods_loaded",
-      "values": [
-        "mstv-base",
-        "nemos-campfires"
-      ]
-    }
-  ],
+  "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_soul_sand": {
+    "has_coal": {
       "conditions": {
         "items": [
           {
-            "items": "#minecraft:soul_fire_base_blocks"
+            "items": "#minecraft:coals"
           }
         ]
       },
@@ -23,7 +15,7 @@
       "conditions": {
         "items": [
           {
-            "items": "#mstv-base:stick_variants"
+            "items": "minecraft:stick"
           }
         ]
       },
@@ -31,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "nemos-campfires:pale_oak_soul_campfire_from_stick_variants"
+        "recipe": "nemos-campfires:pale_oak_campfire"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -39,16 +31,21 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_soul_sand"
-    ],
-    [
-      "has_the_recipe",
-      "has_stick"
+      "has_stick",
+      "has_coal"
     ]
   ],
   "rewards": {
     "recipes": [
-      "nemos-campfires:pale_oak_soul_campfire_from_stick_variants"
+      "nemos-campfires:pale_oak_campfire"
     ]
-  }
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "nemos-campfires"
+      ]
+    }
+  ]
 }

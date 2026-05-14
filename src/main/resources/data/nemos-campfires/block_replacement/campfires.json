@@ -1,0 +1,137 @@
+{
+  "values": [
+    {
+      "structures": "#quad:is/birch",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:birch_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/spruce",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:spruce_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/dark_oak",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:dark_oak_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/jungle",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:jungle_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/acacia",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:acacia_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/mangrove",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:mangrove_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/cherry",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:cherry_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/bamboo",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:bamboo_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/crimson",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:crimson_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/warped",
+      "block_replacement": {
+        "targets": "minecraft:campfire",
+        "replacement": "nemos-campfires:warped_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/birch",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:birch_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/spruce",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:spruce_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/dark_oak",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:dark_oak_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/jungle",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:jungle_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/acacia",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:acacia_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/mangrove",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:mangrove_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/cherry",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:cherry_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/crimson",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:crimson_soul_campfire"
+      }
+    },
+    {
+      "structures": "#quad:is/warped",
+      "block_replacement": {
+        "targets": "minecraft:soul_campfire",
+        "replacement": "nemos-campfires:warped_soul_campfire"
+      }
+    }
+  ]
+}
