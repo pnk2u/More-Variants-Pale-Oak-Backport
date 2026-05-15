@@ -30,7 +30,7 @@
         "minecraft": ">${minecraft_version_0} <${minecraft_version_1}",
 		"java": ">=${java_version}",
 		"fabric-api": "*",
-        "more_variants_core": "*"
+        "more_variants_core": ">=${more_variants_core_version}"
   },
   "custom": {
     "modmenu": {
