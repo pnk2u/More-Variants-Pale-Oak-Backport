@@ -1,10 +1,10 @@
 <a name="more-variants-pale-oak-backport"></a>
 # <img height='48' align=right src="./src/main/resources/icon.png"> <p align="center">&emsp;&emsp;&emsp; More Variants: Pale Oak Backport <sub><a title="More Variants: Pale Oak Backport on Modrinth" href="https://www.modrinth.com/mod/more-variants-pale-oak-backport"><img width="40" src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a></sub> <a title="More Variants: Pale Oak Backport on Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/more-variants-pale-oak-backport"><sub><img width="40" src="https://img.shields.io/badge/--%23f062?style=flat&logo=curseforge"></sub></a> </p>
 > <img align=left height="153" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/More-Variants-Pale-Oak-Backport/pres/logo/logo_c.png">  
->  An Add-on mod adding Pale Oak Variants to More X Variants mods in versions <code>1.20.1</code> and <code>1.21(.1)</code>. <br><br><br><br>  
+>  An Add-on mod adding Pale Oak Variants to More X Variants mods in versions <code>1.20.1</code> and <code>1.21(.1)</code>. <br>  
 > <br>  
 > <br>  
->  <!--<details><summary><h5>Show in-game example image</h5></summary><br><img src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/More-Variants-Pale-Oak-Backport/pres/mr_mini_banner.gif"><sup><br></sup></details>-->
+>  <details><summary><h5>Show in-game example image</h5></summary><br><img src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/More-Variants-Pale-Oak-Backport/pres/gh_readme_banner.gif"><sup><br></sup></details>
 <br>
 
 <a name="compatibility"></a>
