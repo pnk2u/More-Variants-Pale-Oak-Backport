@@ -5,7 +5,7 @@ plugins {
 
 apply from: "versions.gradle"
 
-def mc_version_name(){
+def mc_version_name() {
 	def named = project.findProperty('minecraft_version_name')
 	return named ? named : project.minecraft_version
 }
@@ -29,7 +29,6 @@ repositories {
 	maven { url = "https://maven.bawnorton.com/releases" }
 	maven { url "https://maven.terraformersmc.com/releases/" }
 	maven { url "https://maven.shedaniel.me/" }
-	mavenLocal()
 }
 
 loom {
@@ -61,8 +60,8 @@ dependencies {
 	modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_api_version}"
 
-	// More Variants Core (local maven)
-	modCompileOnly modLocalRuntime("de.pnku:MoreVariantsCore:${project.m_v_core_version}+1.21(.1)-Fabric")
+	// More Variants Core
+	modCompileOnly modLocalRuntime("maven.modrinth:more-variants-core:${project.m_v_core_version_id}")
 }
 
 def minecraft_version_0 = lowerMinecraftVersion(minecraft_version_lower)
