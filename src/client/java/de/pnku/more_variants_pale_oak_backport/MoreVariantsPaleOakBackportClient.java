@@ -14,15 +14,17 @@ import org.slf4j.LoggerFactory;
 @Environment(EnvType.CLIENT)
 public class MoreVariantsPaleOakBackportClient implements ClientModInitializer {
 	public static final String MOD_ID = "more_variants_pale_oak_backport";
-	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID + " (Client)");
+	public static final String MOD_NAME = "More Variants: Pale Oak Backport";
+	public static final String PACK_ID = "compatibility_assets";
+	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_NAME + " (Client)");
 
 
 	@Override
 	public void onInitializeClient() {
 		ResourceManagerHelper.registerBuiltinResourcePack(
-				withModId(MOD_ID),
+				withModId(PACK_ID),
 				FabricLoader.getInstance().getModContainer(MOD_ID).orElseThrow(),
-				Component.translatable("resourcePack." + MOD_ID + ".name"),
+				Component.translatable(String.join(".","resourcePack", MOD_ID, PACK_ID, "name")),
 				ResourcePackActivationType.ALWAYS_ENABLED
 		);
 	}
