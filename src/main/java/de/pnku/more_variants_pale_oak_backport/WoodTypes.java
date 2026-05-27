@@ -5,5 +5,5 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.material.MapColor;
 
 public class WoodTypes {
-    public static final MoreVariantWoodType PALE_OAK = new MoreVariantWoodType("pale_oak", MapColor.QUARTZ, ResourceLocation.withDefaultNamespace("pale_oak_planks"), 13);
+    public static final MoreVariantWoodType PALE_OAK = new MoreVariantWoodType("pale_oak", MapColor.QUARTZ, 13);
 }
