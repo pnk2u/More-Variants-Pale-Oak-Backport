@@ -1,0 +1,32 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmgv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stone_grindstones",
+  "key": {
+    "-": {
+      "item": "minecraft:stone_slab"
+    },
+    "P": {
+      "item": "minecraft:pale_oak_planks"
+    },
+    "|": {
+      "item": "mstv-base:pale_oak_stick"
+    }
+  },
+  "pattern": [
+    "|-|",
+    "P P"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:grindstone"
+  }
+}

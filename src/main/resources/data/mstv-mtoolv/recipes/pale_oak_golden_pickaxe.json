@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "golden_pickaxes",
+  "key": {
+    "/": {
+      "item": "mstv-base:pale_oak_stick"
+    },
+    "<": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "<<<",
+    " / ",
+    " / "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mstv-mtoolv:pale_oak_golden_pickaxe"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "mstv-mtoolv"
+      ]
+    }
+  ]
+}

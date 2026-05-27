@@ -1,0 +1,29 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmsv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_shield",
+  "key": {
+    "W": {
+      "item": "minecraft:pale_oak_planks"
+    },
+    "o": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "WoW",
+    "WWW",
+    " W "
+  ],
+  "result": {
+    "item": "lolmsv:pale_oak_shield"
+  }
+}

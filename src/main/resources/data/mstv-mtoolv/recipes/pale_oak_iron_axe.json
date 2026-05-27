@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_axes",
+  "key": {
+    "/": {
+      "item": "mstv-base:pale_oak_stick"
+    },
+    "<": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "<<",
+    "</",
+    " /"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mstv-mtoolv:pale_oak_iron_axe"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "mstv-mtoolv"
+      ]
+    }
+  ]
+}

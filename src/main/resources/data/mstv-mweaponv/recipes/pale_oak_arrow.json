@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "arrows",
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "/": {
+      "item": "mstv-base:pale_oak_stick"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "#",
+    "/",
+    "F"
+  ],
+  "result": {
+    "count": 4,
+    "item": "mstv-mweaponv:pale_oak_arrow"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "mstv-mweaponv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmgv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "sandstone_grindstones",
+  "key": {
+    "-": {
+      "tag": "lolmgv:sandstone_grindstone_ingredients"
+    },
+    "P": {
+      "item": "minecraft:pale_oak_planks"
+    },
+    "|": {
+      "tag": "lolmgv:pale_oak_grindstone_sticks"
+    }
+  },
+  "pattern": [
+    "|-|",
+    "P P"
+  ],
+  "result": {
+    "count": 1,
+    "item": "lolmgv:pale_oak_sandstone_grindstone"
+  }
+}
