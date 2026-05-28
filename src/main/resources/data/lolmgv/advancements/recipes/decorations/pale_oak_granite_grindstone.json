@@ -13,9 +13,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#lolmgv:granite_grindstone_ingredients"
-            ]
+            "tag": "lolmgv:granite_grindstone_ingredients"
           }
         ]
       },
@@ -37,9 +35,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#lolmgv:pale_oak_grindstone_sticks"
-            ]
+            "tag": "lolmgv:pale_oak_grindstone_sticks"
           }
         ]
       },

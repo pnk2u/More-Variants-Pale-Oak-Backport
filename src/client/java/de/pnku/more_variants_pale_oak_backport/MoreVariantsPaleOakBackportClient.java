@@ -30,7 +30,7 @@ public class MoreVariantsPaleOakBackportClient implements ClientModInitializer {
 	}
 
 	public static ResourceLocation withModId(String path) {
-		return ResourceLocation.fromNamespaceAndPath(MOD_ID, path);
+		return new ResourceLocation(MOD_ID, path);
 	}
 
 

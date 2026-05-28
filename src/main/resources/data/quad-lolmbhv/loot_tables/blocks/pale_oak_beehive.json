@@ -36,9 +36,13 @@
               ],
               "functions": [
                 {
-                  "function": "minecraft:copy_components",
-                  "include": [
-                    "minecraft:bees"
+                  "function": "minecraft:copy_nbt",
+                  "ops": [
+                    {
+                      "op": "replace",
+                      "source": "Bees",
+                      "target": "BlockEntityTag.Bees"
+                    }
                   ],
                   "source": "block_entity"
                 },

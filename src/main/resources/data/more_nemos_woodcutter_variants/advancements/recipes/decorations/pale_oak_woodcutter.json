@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "#minecraft:pale_oak_logs"
+            "tag": "minecraft:pale_oak_logs"
           }
         ]
       },

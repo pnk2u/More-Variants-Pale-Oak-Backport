@@ -7,7 +7,12 @@
       ]
     }
   ],
-  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"mstv_base"}],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mstv_base"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "wooden_sign",
@@ -26,6 +31,6 @@
   ],
   "result": {
     "count": 3,
-    "id": "minecraft:pale_oak_sign"
+    "item": "minecraft:pale_oak_sign"
   }
 }

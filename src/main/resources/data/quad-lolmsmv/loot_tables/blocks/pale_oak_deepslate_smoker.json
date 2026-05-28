@@ -3,19 +3,11 @@
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "quad-lolmsmv"
-      ]
-    }
-  ],
-  "type": "minecraft:block",
-  "fabric:load_conditions": [
-    {
-      "condition": "fabric:all_mods_loaded",
-      "values": [
         "lolmfv"
       ]
     }
   ],
+  "type": "minecraft:block",
   "pools": [
     {
       "bonus_rolls": 0.0,
@@ -29,15 +21,11 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:copy_components",
-              "include": [
-                "minecraft:custom_name"
-              ],
+              "function": "minecraft:copy_name",
               "source": "block_entity"
             }
           ],
-          "name":
-           "quad-lolmsmv:pale_oak_deepslate_smoker"
+          "name": "quad-lolmsmv:pale_oak_deepslate_smoker"
         }
       ],
       "rolls": 1.0

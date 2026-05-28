@@ -22,7 +22,7 @@ public class MoreVariantsPaleOakBackport implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		RegistryEntryAddedCallback.event(BuiltInRegistries.BLOCK).register((rawId, id, block) -> {
-			if (id.equals(ResourceLocation.withDefaultNamespace("pale_oak_planks"))) {
+			if (id.equals(new ResourceLocation("minecraft", "pale_oak_planks"))) {
 				LOGGER.info("Pale Oak Planks block added to registry, adding Pale Oak variants for compatible Mods.");
 			}
 		});
@@ -35,7 +35,7 @@ public class MoreVariantsPaleOakBackport implements ModInitializer {
 	}
 
 	public static ResourceLocation withModId(String path) {
-		return ResourceLocation.fromNamespaceAndPath(MOD_ID, path);
+		return new ResourceLocation(MOD_ID, path);
 	}
 
 }

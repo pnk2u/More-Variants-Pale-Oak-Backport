@@ -37,9 +37,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "#lolmgv:pale_oak_grindstone_sticks"
-            ]
+            "tag": "lolmgv:pale_oak_grindstone_sticks"
           }
         ]
       },

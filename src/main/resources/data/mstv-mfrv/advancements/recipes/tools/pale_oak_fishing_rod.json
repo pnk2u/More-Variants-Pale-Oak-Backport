@@ -10,7 +10,9 @@
             ]
           },
           {
-            "items": "minecraft:string"
+            "items": [
+              "minecraft:string"
+            ]
           }
         ]
       },

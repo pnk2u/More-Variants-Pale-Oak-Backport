@@ -10,7 +10,9 @@
             ]
           },
           {
-            "items": "minecraft:carrot"
+            "items": [
+              "minecraft:carrot"
+            ]
           }
         ]
       },
