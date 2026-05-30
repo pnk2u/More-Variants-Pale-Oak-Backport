@@ -57,8 +57,6 @@
 <a href="https://modrinth.com/mod/more-shield-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-shield-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Shield Variants</code></a><br>
 <a href="https://modrinth.com/mod/more-smithing-tables"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-smithing-tables/1.21(.1)/src/main/resources/icon.png"></sub><code>More Smithing Tables</code></a><br>
 <a href="https://modrinth.com/mod/more-smoker-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-smoker-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Smoker Variants</code></a><br>
-<a href="https://modrinth.com/mod/more-nemos-woodcutter-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-nemos-woodcutter-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Nemo's Woodcutter Variants</code></a><br>
-<a href="https://modrinth.com/mod/nemos-campfires"><sub><img width="16" src="https://raw.githubusercontent.com/nemonotfound/NemosCampfires/master/src/client/resources/assets/nemos_campfires/icon.png"></sub><code>Nemo's Campfires</code></a><br>
 <a href="https://modrinth.com/mod/more-stick-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-stick-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Stick Variants</code></a><br>
 <a href="https://modrinth.com/mod/more-armor-stand-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-armor-stand-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Armor Stand Variants</code></a><br>
 <a href="https://modrinth.com/mod/more-fishing-rod-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-fishing-rod-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More (Fishing) Rod Variants</code></a><br>
@@ -68,6 +66,9 @@
 <a href="https://modrinth.com/mod/more-torch-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-torch-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Torch Variants</code></a><br>
 <a href="https://modrinth.com/mod/more-weapon-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-weapon-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Weapon Variants</code></a><br>
 <a href="https://modrinth.com/mod/nemos-more-ladder-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/nemos-more-ladder-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>Nemo's More Ladder Variants</code></a><br>
+<a href="https://modrinth.com/mod/nemos-campfires"><sub><img width="16" src="https://raw.githubusercontent.com/nemonotfound/NemosCampfires/master/src/client/resources/assets/nemos_campfires/icon.png"></sub><code>Nemo's Campfires</code></a><br>
+<a href="https://modrinth.com/mod/more-nemos-woodcutter-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-nemos-woodcutter-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Nemo's Woodcutter Variants</code></a><br>
+<a href="https://modrinth.com/mod/more-feeding-trough-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/more-feeding-trough-variants/1.21(.1)/src/main/resources/icon.png"></sub><code>More Feeding Trough Variants</code></a><br>
       </td>
     </tr>
   </tbody>
