@@ -11,12 +11,17 @@ import net.minecraft.resources.ResourceLocation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.util.List;
+
 
 public class MoreVariantsPaleOakBackport implements ModInitializer {
 	public static final String MOD_ID = "more_variants_pale_oak_backport";
 	public static final String MOD_NAME = "More Variants: Pale Oak Backport";
 	public static final String PACK_ID = "compatibility_data";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_NAME);
+	public static final List<String> known_valid_mod_ids = List.of(
+			"vanillabackport"
+	);
 
 	
 	@Override
