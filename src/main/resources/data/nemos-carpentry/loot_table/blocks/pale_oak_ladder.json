@@ -1,9 +1,10 @@
 {
   "fabric:load_conditions": [
     {
-      "condition": "fabric:all_mods_loaded",
+      "condition": "fabric:any_mods_loaded",
       "values": [
-        "nemos-moreladdervariants"
+        "nemos-moreladdervariants",
+        "nemos_moreladdervariants"
       ]
     }
   ],

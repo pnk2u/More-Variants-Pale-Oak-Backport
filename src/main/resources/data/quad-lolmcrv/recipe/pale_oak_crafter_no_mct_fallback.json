@@ -2,9 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "fabric:load_conditions": [
     {
-      "condition": "fabric:all_mods_loaded",
+      "condition": "fabric:any_mods_loaded",
       "values": [
-        "quad-lolmcrv"
+        "quad-lolmcrv",
+        "quad_lolmcrv"
       ]
     },
     {
