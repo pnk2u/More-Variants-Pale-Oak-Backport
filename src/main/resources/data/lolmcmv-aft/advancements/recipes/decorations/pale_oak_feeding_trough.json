@@ -48,9 +48,10 @@
   "sends_telemetry_event": false,
   "fabric:load_conditions": [
     {
-      "condition": "fabric:all_mods_loaded",
+      "condition": "fabric:any_mod_loaded",
       "values": [
-        "lolmcmv-aft"
+        "lolmcmv-aft",
+        "lolmcmv_aft"
       ]
     }
   ]

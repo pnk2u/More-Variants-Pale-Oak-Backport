@@ -5,6 +5,13 @@
       "values": [
         "lolmfv"
       ]
+    },
+    {
+      "condition": "fabric:any_mod_loaded",
+      "values": [
+        "quad-lolmsmv",
+        "quad_lolmsmv"
+      ]
     }
   ],
   "parent": "minecraft:recipes/root",
