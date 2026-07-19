@@ -12,5 +12,6 @@ public abstract class MoreVariantWoodTypeHolderMixin {
     @Inject(method = "init", at = @At("HEAD"), remap = false)
     private static void injectedInitAtHead(CallbackInfo ci) {
         MoreVariantWoodTypeHolder.addMoreVariantWoodTypes(WoodTypes.PALE_OAK);
+        MoreVariantWoodTypeHolder.addBiomeSpawnItemVariant(new String[]{"minecraft:pale_garden"}, WoodTypes.PALE_OAK, 1.0f, null, 0.0f);
     }
 }
